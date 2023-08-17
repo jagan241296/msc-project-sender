@@ -8,5 +8,4 @@ args: 0-DirectoryPath for Thread 1, 1-QueueName, 2-BatchSize, 3 - Message Delay,
 
 Example command to run application and send messages to RabbitMQ.
 
-**java -jar SenderApp.jar "/home/azureuser/videos" RABBITMQ 10240 0 500 20
-**
+**java -jar SenderApp.jar "/home/azureuser/videos" RABBITMQ 10240 0 500 20**
